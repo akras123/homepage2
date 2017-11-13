@@ -1,3 +1,14 @@
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://akras123.github.io/homepage2/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+port: 4000
+permalink: pretty
+
+exclude: ['CNAME', 'README.md', 'PSD', 'package.json', 'gruntfile.js', 'database.rules.json', 'firebase.json', 'package.json', 'typings', 'tsconfig.json', 'tsd.json', 'node_modules']
+
 title: Leap Day theme
 description: Leap Day is a theme for GitHub Pages.
 show_downloads: true
