@@ -1,5 +1,5 @@
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://akras123.github.io/homepage2/" # the base hostname & protocol for your site
+baseurl: "homepage2" # the subpath of your site, e.g. /blog/
+<!-- url: "https://akras123.github.io/homepage2/" # the base hostname & protocol for your site-->
 
 # Build settings
 markdown: kramdown
